@@ -1,1 +1,1 @@
-Carpeta con el código aplicado a la data del proyecto
+Si bien es cierto que las indicaciones del maestro para esta carpeta solicitaban, subir el Jupyter Notebook en el que se hizo el Análisis EDA, me fijé hasta el final de este detalle y el análisis lo había desarrollado en Visual Studio Code, es por ello que el archivo con código aplicado a la data del proyecto es de Visual Studio Code.
