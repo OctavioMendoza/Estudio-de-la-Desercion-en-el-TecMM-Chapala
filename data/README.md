@@ -1,1 +1,2 @@
-Carpeta con la data del proyecto
+Por motivos de privacidad, para el desarrollo de este proyecto intermedio se utilizó una base de datos con información de los primeros 3,690 estudiantes del TecMM Chapala, en el periodo comprendido del 2003 al 2021.
+Dicha base de datos contiene calificaciones de asignaturas en varias columnas, entre las que destacan: el programa educativo, código del alumno, clave de la asignatura, calificación, Año, periodo, etc...
