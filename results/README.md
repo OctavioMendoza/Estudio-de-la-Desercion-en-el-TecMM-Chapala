@@ -47,9 +47,11 @@ En la que se muestran las asignaturas aprobadas y reprobadas por programa acadé
 
 Gráficamente la misma información se muestra de la siguiente manera:
 
-
+![](https://github.com/OctavioMendoza/Estudio-de-la-Desercion-en-el-TecMM-Chapala/blob/main/results/assets/Porc%20Aprob%20y%20Repr.png)
 
 Se puede apreciar que las carreras con mayores índices de reprobación son Animación Digital y Efectos Visuales, y la Licenciatura en Gastronomía, ambas con índices de reprobación de dos dígitos.
 La última columna contiene el año en que el alumno cursó la asignatura, que al contrastarla con la columna “Aprueba” mediante una tabla de tabulación cruzada, se obtiene el siguiente gráfico:
+
+![](https://github.com/OctavioMendoza/Estudio-de-la-Desercion-en-el-TecMM-Chapala/blob/main/results/assets/Aprb%20y%20Reprob%20hist.png)
 
 El paso de los años muestra un incremento en los índices de reprobación, lo que puede generarse por distintas razones, el crecimiento en la población de estudiantes puede generar que sean más los que presenten bajos niveles académicos, o sean más los que deserten, que los esquemas de evaluación se hayan hecho más estrictos…
