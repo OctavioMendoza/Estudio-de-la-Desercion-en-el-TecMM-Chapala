@@ -26,7 +26,7 @@ Los Programas Académicos que ha tenido la Institución son los siguientes:
 
 Con la columna del número de control, podemos determinar el total de alumnos que fueron parte de la Institución en el periodo de estudio:
 
-![](https://github.com/OctavioMendoza/Estudio-de-la-Desercion-en-el-TecMM-Chapala/blob/main/results/assets/Screenshot%202024-05-14%20192856.png)
+![](https://github.com/OctavioMendoza/Estudio-de-la-Desercion-en-el-TecMM-Chapala/blob/main/results/assets/Screenshot%202024-05-14%20192846.png)
 
 A partir de las claves de asignatura, se encuentra que el número de asignaturas distintas cursadas en la Institución es de:
 
