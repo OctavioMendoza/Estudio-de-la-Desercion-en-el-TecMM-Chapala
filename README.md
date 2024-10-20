@@ -11,22 +11,22 @@ En el anáisis se  pudo determinar los porcentajes de aprobación de asignaturas
 
 # Estructura de repositorio
 
-El objetivo de este repositorio es implementar las buenas prácticas de acuerdo al paper ["Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037) por Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal.
+El objetivo de este repositorio es mostrar la organización de la información del proyecto, tomando en cuenta las buenas prácticas mencionadas en el paper ["Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037) de Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal.
 
 La estructura del repositorio es la siguiente:
 
-    ├── LICENSE           <- MIT License.  
+    ├── LICENSE           <- Licencia MIT.
     |  
-    ├── README.md         <- Main Readme file with the description of the project.  
+    ├── README.md         <- README principal con la descripción general del proyecto. 
     |  
-    ├── CONTRIBUTING.md   <- Steps to contribute to the project.  
+    ├── CONTRIBUTING.md   <- Pasos para contrinuir en el proyecto.  
     |  
-    ├── CITATION.md       <- Way to cite the project.  
+    ├── CITATION.md       <- Forma de citar este trabajo.  
     |  
-    ├── data              <- Original data bases.  
+    ├── data              <- Datos utilizados en presente análisis.  
     |  
-    ├── doc               <- Archivos de texto.  
+    ├── doc               <- Archivos de texto con la Descripción General del Proyecto.  
     |  
-    ├── results           <- Clean and analyzes data bases.  
+    ├── results           <- Resultados del Análisis Exploratorio de los datos. 
     |  
-    └── src               <- Coding files.  
+    └── src               <- Codigo utilizado para el Análisis Exploratorio.  
